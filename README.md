@@ -3,6 +3,8 @@ Java project to get metadata from a database using JDBC.
 
 The file JavaDbUtilities.docx explains in Spanish how to use this project.
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 I have written this project as the following answer in StackOverflow:
 
 "I have created a project called JavaDbUtilities on GitHub. The project uses JDBC's DatabaseMetaData and it can print:
